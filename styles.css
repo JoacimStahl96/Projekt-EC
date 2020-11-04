@@ -1,0 +1,135 @@
+body{
+    background: transparent url("/Projekt-EC/media/bakgrunds-katt.jpg");
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+html, body{
+    height: 100%;
+    position: relative;
+}
+main{
+    display: block;
+}
+.header-jumbo{
+    margin-bottom: 0px;
+    font-style: italic;
+    padding: 15px;
+}
+footer{
+    background-color: #e7e7e7;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    position: relative;
+    bottom: 0;
+}
+.footerImg{
+    right: 0;
+    width: 60px;
+    height: auto;
+}
+img{
+    width: 60px;
+    height: auto;
+    float: right;
+    border-radius: 10px;
+}
+.pic{
+    width: 80px;
+    height: auto;
+    float: right;
+    border-radius: 5px;
+}
+.footer-img{
+    display: flex;
+    justify-content: left;
+}
+article{
+    background-color: #ffffff;
+    margin-bottom: 0px;
+    position: relative;
+}
+aside{
+    background-color: #ffffff;
+    position: relative;
+    margin-bottom: 0px;
+    margin-top: 0;
+}
+.p-text{
+    background-color: #dbdad9;
+    border-radius: 1px;
+    bottom: 10px;
+}
+.headPic{
+    width: 30px;
+    height: auto;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f8ff;
+    width: 100%;
+}
+.day{
+    color: #000000;
+    font-weight: bold;
+    
+}
+.month{
+    color: #000000;
+    font-weight: bold;
+}
+.newsItem{
+    border-bottom: 1px dashed #000000;
+}
+.uList{
+    list-style-type: none; 
+}
+.forms{
+    background-color: #d3d3d3;
+    width: 50vh;
+    padding: 5px;
+    height: auto;
+}
+.h3-change{
+    text-align: center;
+    background-color: #eceaea;
+    margin: 0px 30% 0px 30%;
+    padding-bottom: 10px;
+}
+.h2-change{
+    text-align: center;
+    background-color: #eceaea;
+    margin: 0px 10% 0px 10%;
+    padding-bottom: 10px;
+}
+.bild{
+    display: flex;
+    float: none;
+    justify-content: center;
+    background-color: #ffffff;
+    margin: 0 30%;
+}
+.galleri-pic{
+    width: 100%;
+    height: auto;
+}
+textarea{
+    box-sizing: content-box;
+    width: 40vh;
+}
+.ossPic{
+    height: 50%;
+    width: 100%;
+}
+.omOss{
+    display: flex;
+    float: none;
+    justify-content: center;
+    background-color: #ffffff;
+    margin: 0 10%;
+}
+.divtext{
+    background-color: #ffffff;
+    margin-bottom: 0px;
+    position: relative;
+}
